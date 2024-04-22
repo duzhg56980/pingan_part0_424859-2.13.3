@@ -1,0 +1,7 @@
+import org.apache.logging.log4j.util.Constants;
+public class FunctionUse857 {
+public void funcUse() {
+Constants constants = new Constants();
+constants.size(null,null);
+}
+}

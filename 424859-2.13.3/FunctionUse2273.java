@@ -1,0 +1,7 @@
+import org.apache.logging.log4j.util.LoaderUtil;
+public class FunctionUse2273 {
+public void funcUse() {
+LoaderUtil loaderutil = new LoaderUtil();
+loaderutil.getClassLoaders();
+}
+}
